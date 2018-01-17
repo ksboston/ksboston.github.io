@@ -1,9 +1,9 @@
 # Site settings
-title: Michelle Torres
-email: smtorres@wustl.edu
-description: PhD Candidate in Political Science at Washington University in St. Louis
+title: Kaitlin Boston, Ed.M.
+email: ksboston05@gmail.com
+description: Experienced elementary teacher, special education expert, literacy specialist, autism advocate
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://smtorres.org" # the base hostname & protocol for your site
+url: "http://www.kaitlinboston.com" # the base hostname & protocol for your site
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
@@ -15,15 +15,14 @@ featured-image-source:
 # Social settings
 #500px_url:
 #facebook_url:
-github_url: https://github.com/smtorres
+github_url: https://github.com/ksboston
 #gitlab_url: https://gitlab.com/u/andrewbanchich
 #googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
 #instagram_url:
 #linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
 #pinterest_url:
-email_url: smtorres@wustl.edu
-twitter_url: https://twitter.com/michtorresp
-
+email_url: ksboston05@gmail.com
+twitter_url: https://twitter.com/kesanford
 
 # Build settings
 markdown: kramdown
