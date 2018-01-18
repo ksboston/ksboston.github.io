@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Research
-description: A sample of working papers and projects
+title: Resume
+description: Kaitlin's educational and professional experience
 ---
 <p>For a full list of all my publications and working papers, please see <a href="/02cv" class="link">my CV.</a></p>
 <section>
