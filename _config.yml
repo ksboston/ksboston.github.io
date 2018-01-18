@@ -14,15 +14,15 @@ featured-image-source:
 
 # Social settings
 #500px_url:
-#facebook_url:
+facebook_url: https://www.facebook.com/kesanford
 github_url: https://github.com/ksboston
 #gitlab_url: https://gitlab.com/u/andrewbanchich
 #googleplus_url: https://plus.google.com/u/0/+AndrewBanchich
 #instagram_url:
-#linkedin_url: https://www.linkedin.com/in/andrew-banchich-a4ba1195
+linkedin_url: https://www.linkedin.com/in/kaitlinboston/
 #pinterest_url:
 email_url: ksboston05@gmail.com
-twitter_url: https://twitter.com/kesanford
+#twitter_url: https://twitter.com/kesanford
 
 # Build settings
 markdown: kramdown
