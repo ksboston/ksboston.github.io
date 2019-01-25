@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Teaching
-description: Teaching experience, syllabus and evaluations
+title: Teaching Experience
+description: Classroom & Clinical Experience
 ---
 
 <section>
