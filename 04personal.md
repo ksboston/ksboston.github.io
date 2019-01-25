@@ -1,7 +1,7 @@
 ---
 layout: page
-title: Teaching
-description: Teaching experience, syllabus and evaluations
+title: Personal
+description: More About Kaitlin
 ---
 
 <section>
