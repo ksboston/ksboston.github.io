@@ -3,7 +3,7 @@ title: Kaitlin S. Boston, Ed.M.
 email: ksboston05@gmail.com
 description: Experienced elementary teacher, special education expert, literacy specialist, autism advocate
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "http://www.kaitlinboston.com" # the base hostname & protocol for your site
+url: "https://www.kaitlinboston.com" # the base hostname & protocol for your site
 
 # Homepage tiles
 tiles-source: posts # accepts "posts" or "pages"
