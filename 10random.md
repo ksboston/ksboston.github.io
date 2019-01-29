@@ -6,14 +6,8 @@ description: A collection of non-academic and academic links that you may find i
 
 <section>
 	<h2>Links</h2>
-<h3><a href="http://javier-marquez.net">Politicamente Correcto</a></h3>
-<p>Statistical and electoral analysis (mainly within the Mexican context)</p>
-<h3><a href="http://cartografica.mx">Cartografica</a></h3>
-<p>Big data, technology, creativity and colloquial wisdom. A visualization jewel.</p>
-<h3><a href="http://rbloggers.com">R-bloggers</a></h3>
-<p>Latest releases and useful tips to improve R-programming skills.</p>
-<h3><a href="http://www.am-cb.net">Adrien M/Claire B</a></h3>
-<p>Programming + dance = perfection</p>
-<h3><a href="http://www.feastmagazine.com">Feast</a></h3>
-<p>Where to eat and drink in St. Louis and Kansas City. Foodies' top pick.</p>
+<h3><a href="https://www.youtube.com/channel/UCErKUCncCyBgEdxWAtrj5hg">Hip Hughes YouTube</a></h3>
+<h3><a href="https://hiphugheshistory.weebly.com/">Hip Hughes Blog</a></h3>
+<p>One of my master's program instructors who provides awesome, innovative study resources for high schoolers. Keith Hughes is a former Buffalo Public teacher. He is taught graduate courses on maximizing technology in the classroom. He has been featured on cable shows spanning several networks. </p>
+<p>Please come back for more soon!</p>
   </section>
